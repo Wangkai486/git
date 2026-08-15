@@ -1,0 +1,22 @@
+# Visual Studio 本地缓存/配置
+.vs/
+
+# 构建输出
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+build/
+dist/
+
+# 用户/本地设置
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# 编译/调试产物
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
